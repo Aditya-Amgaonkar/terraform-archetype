@@ -12,7 +12,7 @@ This terraform workflow is used for creating the local enviromnet for developmen
 * [Install docker](https://docs.docker.com/engine/install/)
 * 
 
-## Environment components
+## Environment components (Obviously all are on localstack)
 * AWS VPC
 * AWS Subnet
 * AWS EC2
