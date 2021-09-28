@@ -10,7 +10,7 @@ This terraform workflow is used for creating the local enviromnet for developmen
   <br>`pip3 install localstack`
   <br> Note: Also, check prerequisites of localstack [here](https://github.com/localstack/localstack#requirements-for-developing-or-starting-locally)
 * [Install docker](https://docs.docker.com/engine/install/)
-* 
+* [Install AWS CLI](https://aws.amazon.com/cli/) (optional)
 
 ## Environment components (Obviously all are on localstack)
 * AWS VPC
