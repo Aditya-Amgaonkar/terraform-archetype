@@ -82,3 +82,6 @@ tags
 
 # Lock files
 .terraform.lock.hcl
+
+# Var file containing secrets
+terraform.tfvars
