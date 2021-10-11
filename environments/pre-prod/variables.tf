@@ -2,10 +2,8 @@ variable "region" {
     default = "us-east-1"
 }
 
-variable "access_key" {
-    default = "<<your-access-key>>"
-}
+# Set from terraform.tfvars
+variable "aws_access_key" {}
 
-variable "secret_key" {
-    default = "<<your-secret-key>>"
-}
+# Set from terraform.tfvars
+variable "aws_secret_key" {}
